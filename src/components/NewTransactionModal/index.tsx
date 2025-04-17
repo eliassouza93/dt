@@ -30,7 +30,6 @@ export function NewTransactionModal() {
       return context.createTransaction
     },
   )
-
   const {
     control,
     register,
